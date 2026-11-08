@@ -1,0 +1,302 @@
+{
+  "namespace": "Bluefin Studio",
+  "owner_slug": "bluefin-studio",
+  "repository": "knobbyintens/github_notion_3118-x7q2m-bluefin-studio",
+  "schema": "deliverables-bundle/v1",
+  "items": {
+    "Mossy Jigsaw": {
+      "files": {
+        "README.md": "# Mossy Jigsaw\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Mossy Jigsaw\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"0ba6221bc49b8a25\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Aurora Ledgerbook": {
+      "files": {
+        "README.md": "# Aurora Ledgerbook\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Aurora Ledgerbook\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"971cff4e484c4046\"\n}"
+      },
+      "category": "brief"
+    },
+    "Radiant Index": {
+      "files": {
+        "README.md": "# Radiant Index\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Radiant Index\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b687c04379d9c19d\"\n}"
+      },
+      "category": "deck"
+    },
+    "Quiet Update": {
+      "files": {
+        "README.md": "# Quiet Update\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Quiet Update\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"8c1d964150a3a6b5\"\n}"
+      },
+      "category": "spec"
+    },
+    "Fabled Logbook": {
+      "files": {
+        "README.md": "# Fabled Logbook\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Fabled Logbook\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f0ed56a594033907\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Gilded Folio": {
+      "files": {
+        "README.md": "# Gilded Folio\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Gilded Folio\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"a1fb2d798b716e92\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Keen Treasury": {
+      "files": {
+        "README.md": "# Keen Treasury\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Keen Treasury\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"b488d7b01875a5c8\"\n}"
+      },
+      "category": "report"
+    },
+    "Willow Quarterly": {
+      "files": {
+        "README.md": "# Willow Quarterly\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Willow Quarterly\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"39784f7101704db0\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Ivory Fixture": {
+      "files": {
+        "README.md": "# Ivory Fixture\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Ivory Fixture\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"085cfc7e4dd88daf\"\n}"
+      },
+      "category": "brief"
+    },
+    "Sable Ledgerbook": {
+      "files": {
+        "README.md": "# Sable Ledgerbook\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Sable Ledgerbook\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"35257a5939c88f86\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Lunar Kit": {
+      "files": {
+        "README.md": "# Lunar Kit\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Lunar Kit\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"00997250ce8bacde\"\n}"
+      },
+      "category": "archive"
+    },
+    "Crimson Workbook": {
+      "files": {
+        "README.md": "# Crimson Workbook\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Crimson Workbook\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"9bb78533add4e50c\"\n}"
+      },
+      "category": "deck"
+    },
+    "Crimson Survey": {
+      "files": {
+        "README.md": "# Crimson Survey\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Crimson Survey\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"21cdc15e0b43f37c\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Mossy Kit": {
+      "files": {
+        "README.md": "# Mossy Kit\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Mossy Kit\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"052851c4362b51b2\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Brisk Vault": {
+      "files": {
+        "README.md": "# Brisk Vault\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Brisk Vault\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"e2b092b1ec59ec8e\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Opaline Index": {
+      "files": {
+        "README.md": "# Opaline Index\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Opaline Index\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"87edeaf89afcdaaf\"\n}"
+      },
+      "category": "model"
+    },
+    "Jade Update": {
+      "files": {
+        "README.md": "# Jade Update\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Jade Update\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"261e22c1d96e7dba\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Velvet Keepsake": {
+      "files": {
+        "README.md": "# Velvet Keepsake\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Velvet Keepsake\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"1e078218dd2f9a46\"\n}"
+      },
+      "category": "report"
+    },
+    "Sable Herald": {
+      "files": {
+        "README.md": "# Sable Herald\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Sable Herald\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"10a5dd7bf94077ef\"\n}"
+      },
+      "category": "model"
+    },
+    "Marble Catalog": {
+      "files": {
+        "README.md": "# Marble Catalog\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: deck\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Marble Catalog\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"deck\",\n  \"version\": \"1.0\",\n  \"checksum\": \"5106f5ce78438b50\"\n}"
+      },
+      "category": "deck"
+    },
+    "Drifting Treasury": {
+      "files": {
+        "README.md": "# Drifting Treasury\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Drifting Treasury\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"ec1cd543d38eec5e\"\n}"
+      },
+      "category": "report"
+    },
+    "Opaline Portfolio": {
+      "files": {
+        "README.md": "# Opaline Portfolio\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Opaline Portfolio\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"8fce17bb44148866\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Dusk Dossier": {
+      "files": {
+        "README.md": "# Dusk Dossier\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Dusk Dossier\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"0a4ac17082a3c701\"\n}"
+      },
+      "category": "report"
+    },
+    "Cobalt Survey": {
+      "files": {
+        "README.md": "# Cobalt Survey\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Cobalt Survey\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"06012c2f4359e14b\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Quiet Handbook": {
+      "files": {
+        "README.md": "# Quiet Handbook\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Quiet Handbook\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f85319db47ac98ab\"\n}"
+      },
+      "category": "model"
+    },
+    "Halcyon Vault": {
+      "files": {
+        "README.md": "# Halcyon Vault\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Halcyon Vault\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"86bc8aaac0e47659\"\n}"
+      },
+      "category": "model"
+    },
+    "Evergreen Atlas": {
+      "files": {
+        "README.md": "# Evergreen Atlas\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Evergreen Atlas\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"7ebb5176632129ad\"\n}"
+      },
+      "category": "model"
+    },
+    "Mossy Brief": {
+      "files": {
+        "README.md": "# Mossy Brief\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: brief\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Mossy Brief\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"brief\",\n  \"version\": \"1.0\",\n  \"checksum\": \"40d6c1bc9e3c6bc5\"\n}"
+      },
+      "category": "brief"
+    },
+    "Brisk Itinerary": {
+      "files": {
+        "README.md": "# Brisk Itinerary\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Brisk Itinerary\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"904e160cf40a88fc\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Quiet Glossary": {
+      "files": {
+        "README.md": "# Quiet Glossary\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Quiet Glossary\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"5bf7374e67ef070e\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Amber Journal": {
+      "files": {
+        "README.md": "# Amber Journal\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: catalog\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Amber Journal\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"catalog\",\n  \"version\": \"1.0\",\n  \"checksum\": \"6c4702b14c4d298a\"\n}"
+      },
+      "category": "catalog"
+    },
+    "Tidal Vault": {
+      "files": {
+        "README.md": "# Tidal Vault\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Tidal Vault\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"20d09c43c0c3f243\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Xenial Register": {
+      "files": {
+        "README.md": "# Xenial Register\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Xenial Register\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"78efaf0e9882ce10\"\n}"
+      },
+      "category": "model"
+    },
+    "Balmoral Gazette": {
+      "files": {
+        "README.md": "# Balmoral Gazette\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: model\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Balmoral Gazette\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"model\",\n  \"version\": \"1.0\",\n  \"checksum\": \"289a468339841fa0\"\n}"
+      },
+      "category": "model"
+    },
+    "Willow Kit": {
+      "files": {
+        "README.md": "# Willow Kit\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Willow Kit\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"2fb5a31bfd60a519\"\n}"
+      },
+      "category": "archive"
+    },
+    "Kestrel Gazette": {
+      "files": {
+        "README.md": "# Kestrel Gazette\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Kestrel Gazette\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"4cbafe6f83623a8e\"\n}"
+      },
+      "category": "archive"
+    },
+    "Harbor Survey": {
+      "files": {
+        "README.md": "# Harbor Survey\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: spec\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Harbor Survey\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"spec\",\n  \"version\": \"1.0\",\n  \"checksum\": \"84e62a7a603f9a53\"\n}"
+      },
+      "category": "spec"
+    },
+    "Amber Atlas": {
+      "files": {
+        "README.md": "# Amber Atlas\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Amber Atlas\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"4c61ba88209bae25\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Fabled Keepsake": {
+      "files": {
+        "README.md": "# Fabled Keepsake\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Fabled Keepsake\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"2b5def772bfbb872\"\n}"
+      },
+      "category": "report"
+    },
+    "Balmoral Survey": {
+      "files": {
+        "README.md": "# Balmoral Survey\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: dataset\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Balmoral Survey\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"dataset\",\n  \"version\": \"1.0\",\n  \"checksum\": \"cc1096b4866af99a\"\n}"
+      },
+      "category": "dataset"
+    },
+    "Granite Herald": {
+      "files": {
+        "README.md": "# Granite Herald\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: archive\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Granite Herald\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"archive\",\n  \"version\": \"1.0\",\n  \"checksum\": \"368fa0d25cc22cc8\"\n}"
+      },
+      "category": "archive"
+    },
+    "Frosted Kit": {
+      "files": {
+        "README.md": "# Frosted Kit\n\nDeliverable maintained by Bluefin Studio.\n\n- Category: report\n- Version: 1.0\n",
+        "item.json": "{\n  \"name\": \"Frosted Kit\",\n  \"owner\": \"Bluefin Studio\",\n  \"category\": \"report\",\n  \"version\": \"1.0\",\n  \"checksum\": \"f41950555ac46bbf\"\n}"
+      },
+      "category": "report"
+    }
+  }
+}
